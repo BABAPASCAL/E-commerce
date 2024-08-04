@@ -1,0 +1,6 @@
+age= x
+input(how old are you)
+if x is >= 18
+  print("you are eligible")
+else 
+    print("you are not eligible") 
